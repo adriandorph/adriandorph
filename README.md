@@ -1,8 +1,6 @@
 # Hi there, I'm Adrian 👋
 
 - 🌱 I’m studying software development at the IT-University of Copenhagen
-- 🧠 I want to learn more about AI, Machine Learning, Functional Programming, React, Cloud, Docker and Security
-- 👀 I am interested in Computer Science and Motorsport
 - ⚡ I like to make small indie games in my spare time
 
 ### Languages and Tools:
